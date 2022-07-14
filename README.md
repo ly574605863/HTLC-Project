@@ -35,7 +35,7 @@ For example, Alice uses one BTC to swap Bob's 20 eth processes as follows:
 
 1. Alice randomly constructs a string **s** and calculates its hash **H = hash (s)**;
 
-2. The contract that Alice sends **h** to Bob;
+2. The contract that Alice sends **H** to Bob;
 
 3. Alice locks one of her BTC assets, sets a **longer locking time T1**, and sets a condition for obtaining the BTC: whoever can provide the original value of H, which is s, can get the BTC, if time 
 
