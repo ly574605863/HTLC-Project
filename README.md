@@ -24,7 +24,7 @@ run: npm run start
 * notes:
 Hash of 0x42 is 0x1114e8440f8d4bdd0537a45f44fc2d03d003c1e196ed86fbabc52e4140c34a66
 #### example of dapp
-![image](https://github.com/ly574605863/HTLC-Project/blob/main/doc/HTLC-dapp.png)
-![image](https://github.com/ly574605863/HTLC-Project/blob/main/doc/HTLC-dapp-createHTLC.png)
+![image](http://github.com/ly574605863/HTLC-Project/blob/main/doc/HTLC-dapp.png)
+![image](http://github.com/ly574605863/HTLC-Project/blob/main/doc/HTLC-dapp-createHTLC.png)
 
 ## What is HTLC
